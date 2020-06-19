@@ -1,38 +1,18 @@
 ---
-title: Hello World
+title: 나의 첫번째 게시물!
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+효셩이의 블로그 [Blog](https://hyosyung.github.io)에 오신것을 환영합니다.
+이것은 연습용 페이지입니다.
+네이버 블로그로 오시려면 [여기](https://blog.naver.com/melon940925) 를 눌러주세요!
+깃허브 재밋다!
 
-## Quick Start
+## 큰 글자를 제목처럼 쓰려면 #을 두번 치고 쓰기
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
+### 소제목을 쓰려면 #을 세번 치고 쓰기
 
 ``` bash
-$ hexo server
+소스코드를 쓰려면 (지금 이렇게 음영 표시된 거처럼 쓰려면) \`을 세번 쓴 뒤 bash라고 쓰기!
+물론 닫을때는 다시 \`를 세번 치기
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+자세한 정보는 [여기](https://mingpd.github.io/)서 얻을 수 있음!

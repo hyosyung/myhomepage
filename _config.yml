@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: "효셩이"
+subtitle: "웹린이 김효성"
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: "김효성"
+language: "en"
+timezone: "Asia/Seoul"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -93,9 +93,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/hyosyung/hyosyung.github.io.git
+  branch: master   # 혹시 다른 브랜치로 쓰실거면 바꿔주세요
